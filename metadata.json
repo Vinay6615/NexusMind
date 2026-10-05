@@ -1,0 +1,6 @@
+{
+  "name": "NexusMind — Universal Knowledge-Graph & Mind Map Generator",
+  "description": "Convert any concept, topic, or input text into a structured, hierarchical interactive mind map and knowledge graph powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
