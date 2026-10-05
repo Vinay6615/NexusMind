@@ -37,7 +37,7 @@ NexusMind is a powerful, production-grade universal knowledge-graph and mind map
 - **AI SDK**: `@google/genai` (Server-side Gemini API integration)
 - **Frontend**: React 19, Vite, Tailwind CSS (via `@tailwindcss/vite`), Lucide Icons
 - **Backend**: Node.js & Express server with Vite middleware integration
-
+- **Database**: MongoDB may be included in an improved version, where mind map history is maintained - with the graphs and tree outlines stored in a format more flexible than JSON, using a relaxed schema.
 ---
 
 ## 🚀 Getting Started
